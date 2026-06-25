@@ -1,4 +1,4 @@
-# 👋 Привет, я Asce | Full-Stack Web Engineer
+# Привет, я Asce | Full-Stack Web Engineer
 
 
 <p align="left">
