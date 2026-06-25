@@ -1,11 +1,6 @@
 # 👋 Привет, я Asce | Full-Stack Web Engineer
 
-<!-- Счетчик просмотров вашего профиля. username=Wiglescl связывает его с вами -->
-<p align="left">
-  <img src="https://komarev.github.io/github-profile-visitor-counter/badge.svg?username=Wiglescl&color=4F46E5&style=flat-square" alt="visitor counter" />
-</p>
 
-<!-- Анимация печатающегося текста. Цвет color=4F46E5 (Indigo) — премиальный оттенок, шикарно выглядящий и на белом, и на черном -->
 <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4F46E5&width=435&lines=React+%2B+Next.js+Expert;Node.js+Backend+Developer;Telegram+Mini+Apps+Creator" alt="Typing SVG" />
@@ -17,12 +12,12 @@
 ### 💻 Обо мне
 Я коммерческий Full-Stack веб-разработчик. Создаю быстрые, масштабируемые веб-приложения и кастомные интеграции. Особый фокус на чистой архитектуре, высокой производительности и интеграции API (Stripe, Crypto, AI).
 
-* 🛠️ **Специализация:** SPA, SaaS-платформы, Telegram Web Apps (TWA).
-* 🎓 **Образование:** Компьютерные науки (КПИ).
+* **Специализация:** SPA, SaaS-платформы, Telegram Web Apps (TWA).
+* **Образование:** Компьютерные науки (КПИ).
 
 ---
 
-### 🛠️ Мой Технологический Стек
+### Мой Технологический Стек
 
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -37,18 +32,18 @@
 
 ---
 
-### 📊 Моя активность на GitHub
+### Моя активность на GitHub
 
-<!-- Магия адаптивности: медиа-запросы переключают темы карточек автоматически в зависимости от темы системы/браузера -->
+
 <p align="center">
-  <!-- Карточка статистики коммитов -->
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wiglescl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Wiglescl&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wiglescl&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </picture>
 
-  <!-- Карточка используемых языков -->
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiglescl&layout=compact&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiglescl&layout=compact&theme=default" />
@@ -57,7 +52,7 @@
 </p>
 
 <p align="center">
-  <!-- Карточка вашей серии коммитов (Streak Stats) -->
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Wiglescl&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Wiglescl&theme=default" />
@@ -65,4 +60,3 @@
   </picture>
 </p>
 
--
