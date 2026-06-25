@@ -1,5 +1,4 @@
-# Привет, я Asce | Full-Stack Web Engineer
-
+# Hi, I'm Asce | Full-Stack Web Engineer
 
 <p align="left">
   <a href="https://git.io/typing-svg">
@@ -9,15 +8,15 @@
 
 ---
 
-### Обо мне
-Я коммерческий Full-Stack веб-разработчик. Создаю быстрые, масштабируемые веб-приложения и кастомные интеграции. Особый фокус на чистой архитектуре, высокой производительности и интеграции API (Stripe, Crypto, AI).
+### About Me
+I am a commercial Full-Stack Web Developer. I build fast, scalable web applications and custom integrations. Special focus on clean architecture, high performance, and API integration (Stripe, Crypto, AI).
 
-* **Специализация:** SPA, SaaS-платформы, Telegram Web Apps (TWA).
-* **Образование:** Компьютерные науки (КПИ).
+* **Specialization:** SPAs, SaaS platforms, Telegram Web Apps (TWA) / Mini Apps.
+* **Education:** Computer Science (Kyiv Polytechnic Institute).
 
 ---
 
-### Мой Технологический Стек
+### My Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -32,17 +31,14 @@
 
 ---
 
-### Моя активность на GitHub
-
+### My GitHub Activity
 
 <p align="center">
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wiglescl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Wiglescl&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wiglescl&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </picture>
-
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiglescl&layout=compact&theme=tokyonight" />
@@ -52,11 +48,9 @@
 </p>
 
 <p align="center">
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Wiglescl&theme=tokyonight" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Wiglescl&theme=default" />
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wiglescl&theme=default" alt="GitHub Streak" />
   </picture>
 </p>
-
