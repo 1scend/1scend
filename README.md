@@ -1,4 +1,4 @@
-# Hi, I'm Asce | Full-Stack Web Engineer
+# Asce | Full-Stack Web Engineer
 
 <p align="left">
   <a href="https://git.io/typing-svg">
