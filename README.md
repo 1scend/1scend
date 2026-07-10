@@ -35,22 +35,22 @@ I am a commercial Full-Stack Web Developer. I build fast, scalable web applicati
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Wiglescl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Wiglescl&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wiglescl&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=1scend&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=1scend&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1scend&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiglescl&layout=compact&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiglescl&layout=compact&theme=default" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiglescl&layout=compact&theme=default" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1scend&layout=compact&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1scend&layout=compact&theme=default" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1scend&layout=compact&theme=default" alt="Top Languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Wiglescl&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Wiglescl&theme=default" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wiglescl&theme=default" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=1scend&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=1scend&theme=default" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=1scend&theme=default" alt="GitHub Streak" />
   </picture>
 </p>
